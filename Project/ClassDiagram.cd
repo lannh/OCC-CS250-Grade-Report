@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Course">
+    <Position X="1" Y="3.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AICECAASAAEQAQAAAIAAAAAAgAAAAAAAAAAgAAAAgAA=</HashCode>
+      <FileName>Course.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseList">
+    <Position X="1" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEAAAQAAAAAEAAAAAAAAgAAAEAAAAAAgAAAAABA=</HashCode>
+      <FileName>CourseList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person">
+    <Position X="5.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAEAAABAAAAAAAAAAAAAAAAAAABAIAIACAAAAAA=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="5.5" Y="3.75" Width="6" />
+    <TypeIdentifier>
+      <HashCode>gAIARAAAQAAAAACABAAAggAAAAQAAAAAQAAAAGAoAAA=</HashCode>
+      <FileName>Student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentList">
+    <Position X="11.75" Y="3.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAGACgAgQAgAAAAAAAAIAABAEAAAAAAAAgEAACACA=</HashCode>
+      <FileName>StudentList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExceptionHandler">
+    <Position X="10.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAgAAACAAAAAARAAAAQAAAAIAAAAAA=</HashCode>
+      <FileName>ExceptionHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
